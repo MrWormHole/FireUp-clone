@@ -5,7 +5,8 @@
 * If you are interested in this project, i made it open source so you can fork on it and work. Requirement is to have Unity.
 
 ![FIRE-UP-DEMO](https://user-images.githubusercontent.com/22800416/89736170-69ccd000-da5f-11ea-8a2b-86851857edd1.png)
-![FIRE-UP-DEMO-VIDEO](https://youtu.be/nkIvv_jSTzw)
+
+[![Watch the fire up demo video](https://img.youtube.com/vi/nkIvv_jSTzw/hqdefault.jpg)](https://youtu.be/nkIvv_jSTzw)
 
 # License
 ``` DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 

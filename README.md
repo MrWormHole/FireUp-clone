@@ -4,8 +4,9 @@
 * I have run this on Unity 2019.4.1f1, there is no issue. Only blow up FX animation is being used from asset store.
 * If you are interested in this project, i made it open source so you can fork on it and work. Requirement is to have Unity.
 
+## Demo Screenshot
 ![FIRE-UP-DEMO](https://user-images.githubusercontent.com/22800416/89736170-69ccd000-da5f-11ea-8a2b-86851857edd1.png)
-
+## Demo Video
 [![Watch the fire up demo video](https://img.youtube.com/vi/nkIvv_jSTzw/hqdefault.jpg)](https://youtu.be/nkIvv_jSTzw)
 
 # License
